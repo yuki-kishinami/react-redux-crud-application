@@ -1,5 +1,4 @@
 import {INCREMENT, DECREMENT} from  '../actions'
-import { ETIMEDOUT } from 'constants';
 
 const initialState = { value: 0}
 
